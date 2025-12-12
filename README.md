@@ -11,8 +11,6 @@
 </head>
 <body>
 
-<h1>Создание нового репозитория на GitHub</h1>
-
 <button onclick="createRepo()">Создать репозиторий</button>
 
 <pre id="output">Нажми кнопку, чтобы создать репозиторий.</pre>
