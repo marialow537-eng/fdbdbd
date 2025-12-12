@@ -1,0 +1,16 @@
+<button class="order-btn">🍔 Заказать еду</button>
+
+<style>
+.order-btn {
+    background: #ff4d4d;
+    color: white;
+    padding: 14px 22px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.order-btn:hover {
+    background: #ff2e2e;
+}
+</style>
